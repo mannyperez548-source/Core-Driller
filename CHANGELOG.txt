@@ -1,0 +1,27 @@
+CONSOLIDATED USER-REQUESTED UPDATES
+
+1. Day/night: latest request takes precedence: 90 seconds day, 40 seconds
+   night. Advances in camp and expeditions. Phase countdown on HUD.
+2. Graphics: soft sunlight shadows, rock bump maps, anisotropic filtering,
+   tone-mapping adjustment, cave light strips, metallic rig improvements.
+3. Mining: world-space target selection, player-height-aware reach, and
+   duplicate-break guard; existing host-authoritative ore messages retained.
+4. Veins: seeded independent 50% thinning preserves subsequent world RNG
+   draws. Additional weighted rarity reductions for the four premium gems.
+5. Dungeons: opt-in purple E-interact beacons. No automatic gate blocking
+   for unaccepted encounters. Host validates remote acceptance proximity.
+6. Cave ceiling height: 7 to 14 world units; dependent walls/ceilings follow.
+7. Five new physical chest rewards with rarity labels and sale values.
+   Chest selection now sums actual weights instead of a hard-coded total.
+8. Rig/drill: armor trim, hazard markings, vents, twin lights, smooth drill
+   cone, spiral cutting ribs, and shadow-casting model parts.
+9. Space jumps on foot; both Shift keys activate equipped tool; LMB retained.
+   Space retains its cockpit braking role.
+10. Ore unit prices: emerald 200c, diamond 400c, ruby 550c, rainbow 1000c.
+11. Solid player-vs-rig footprints for chassis, plows, drill and upper cabin,
+    with swept side tests and penetration correction. Applied in camp and
+    expeditions. Seated/riding players are exempt.
+12. Enemy-kill trophy cubes disabled at call site and trophy method.
+13. Existing mobile UI, cockpit, shop, quests and online client retained.
+14. Added a compatible local/LAN Python relay because the uploaded HTML
+    references a server package that was not included in the attachment.

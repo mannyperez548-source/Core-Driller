@@ -1,0 +1,36 @@
+{
+  "height": 14,
+  "cycle": 130,
+  "phases": [
+    false,
+    false,
+    true,
+    true
+  ],
+  "trophyAdded": false,
+  "blocked": true,
+  "loot": 10,
+  "prices": [
+    200,
+    400,
+    550,
+    1000
+  ],
+  "segmentCount": 8,
+  "optional": [
+    {
+      "gate": false,
+      "beacon": true
+    }
+  ],
+  "treasures": [
+    1,
+    1,
+    1,
+    2,
+    2
+  ],
+  "browserErrors": [],
+  "relayJoin": true,
+  "relaySenderChecked": true
+}
